@@ -6,14 +6,14 @@ lessSimpleNN.py contains a three layer neural network that utilizes backpropagat
 
 The data table for simpleNN.py:
 (X), (y):
-(0, 0, 1), (0)
-(1, 1, 1), (1)
-(1, 0, 1), (1)
-(0, 1, 1), (0)
+(0, 0, 1), (0) |
+(1, 1, 1), (1) |
+(1, 0, 1), (1) |
+(0, 1, 1), (0) 
 
 The data table for lessSimpleNN.py:
 (X), (y):
-(0, 0, 1), (0)
-(0, 1, 1), (1)
-(1, 0, 1), (1)
-(1, 1, 1), (0)
+(0, 0, 1), (0) |
+(0, 1, 1), (1) |
+(1, 0, 1), (1) |
+(1, 1, 1), (0) |
